@@ -5,3 +5,4 @@ A simple fitness landing page built with HTML and CSS.
 ## Live URL
 
 <!-- Replace with your Vercel deployment link -->
+fitness-landing-page-taupe.vercel.app
